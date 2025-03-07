@@ -24,12 +24,10 @@ Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência �
 2. Clone este repositório ou copie o código fonte do projeto.
 3. Compile o arquivo `ContaTerminal.java`:
  ```
-bash
  javac ContaTerminal.java
 ```
 Execute o programa:
 ```
-bash
 java ContaTerminal
 ```
 Insira os dados solicitados no terminal para visualizar o funcionamento.
